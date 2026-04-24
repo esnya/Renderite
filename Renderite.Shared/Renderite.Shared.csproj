@@ -6,6 +6,9 @@
     <LangVersion>11</LangVersion>
     <Nullable>enable</Nullable>
     <PackageId>YellowDogMan.Renderite.Shared</PackageId>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
