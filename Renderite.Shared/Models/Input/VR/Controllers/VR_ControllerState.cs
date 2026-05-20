@@ -93,6 +93,7 @@ namespace Renderite.Shared
                 typeof(IndexControllerState),
                 typeof(PicoNeo2ControllerState),
                 typeof(TouchControllerState),
+                typeof(ViveFocus3ControllerState),
                 typeof(ViveControllerState),
                 typeof(WindowsMR_ControllerState),
             });
