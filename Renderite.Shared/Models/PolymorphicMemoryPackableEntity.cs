@@ -93,7 +93,7 @@ namespace Renderite.Shared
             {
                 // The type is mismatch, return the existing instance
                 if (existingInstance != null)
-                    poolReturners[index](unpacker.Pool, existingInstance);
+                    ReturnAuto(unpacker.Pool, existingInstance);
 
                 var borrower = poolBorrowers[index];
 
